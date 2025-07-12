@@ -1,6 +1,10 @@
 # ゼブラ・アンドロイド端末の初心者向け開発ガイド
 Zebra-Android_Developer Guide for Beginners v1.00
 
+<img width="600" src="https://www.zebra.com/content/dam/zebra_dam/global/zcom-web-production/web-production-photography/zcom-products-page/mobile-computer-products-photography-website-4x3-3600.jpg.imgo.jpg">
+
+</br>
+
 # はじめに
 
 </br>
